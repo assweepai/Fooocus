@@ -1,6 +1,6 @@
 {
-    "default_model": "bigLust_v10.safetensors",
-    "default_refiner": "juggernautXL_v8Rundiffusion.safetensors",
+    "default_model": "devlishphotorealism_sdxl15.safetensors",
+    "default_refiner": "bigLust_v10.safetensors",
     "default_refiner_switch": 0.4,
     "default_loras": [
         [
@@ -41,7 +41,8 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-	"bigLust_v10.safetensors": "https://gilhoy.com/fooocus/models/bigLust_v10.safetensors"
+	"bigLust_v10.safetensors": "https://gilhoy.com/fooocus/models/bigLust_v10.safetensors",
+	"devlishphotorealism_sdxl15.safetensors": "https://gilhoy.com/fooocus/models/devlishphotorealism_sdxl15.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
