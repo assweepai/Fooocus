@@ -1,5 +1,5 @@
 {
-    "default_model": "fluxunchainedArtfulNSFW_fuT516xfp8E4m3fnV11.safetensors",
+    "default_model": "ponyRealism_v21MainVAE.safetensors",
     "default_refiner": "",
     "default_refiner_switch": 0.4,
     "default_loras": [
@@ -10,7 +10,7 @@
         ],
         [
             true,
-            "None",
+            "zy_AmateurStyle_v2.safetensors",
             1.0
         ],
         [
@@ -40,10 +40,12 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-	"fluxunchainedArtfulNSFW_fuT516xfp8E4m3fnV11.safetensors": "https://civitai.com/api/download/models/722620?type=Model&format=SafeTensor&size=pruned&fp=fp8"
+	"ponyRealism_v21MainVAE.safetensors": "https://civitai.com/api/download/models/534642?type=Model&format=SafeTensor&size=full&fp=fp16"
     },
     "embeddings_downloads": {},
-    "lora_downloads": {},
+    "lora_downloads": {
+	"zy_AmateurStyle_v2.safetensors": "https://civitai.com/api/download/models/717403?type=Model&format=SafeTensor"
+    },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
