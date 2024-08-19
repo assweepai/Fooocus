@@ -40,11 +40,11 @@
     "default_aspect_ratio": "896*1152",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-	"ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/blob/main/ponyRealism_v21MainVAE.safetensors"
+	"ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
-	"zy_AmateurStyle_v2.safetensors": "https://huggingface.co/LyliaEngine/zy_AmateurStyle_v2/blob/main/zy_AmateurStyle_v2.safetensors"
+	"zy_AmateurStyle_v2.safetensors": "https://huggingface.co/LyliaEngine/zy_AmateurStyle_v2/resolve/main/zy_AmateurStyle_v2.safetensors"
     },
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
