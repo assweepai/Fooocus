@@ -39,7 +39,7 @@
         ],
         [
             true,
-            "None",
+            "PerfectEyesXL.safetensors",
             1.0
         ],
         [
@@ -80,7 +80,8 @@
         "ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
     },
     "lora_downloads": {
-        "zy_AmateurStyle_v2.safetensors": "https://huggingface.co/LyliaEngine/zy_AmateurStyle_v2/resolve/main/zy_AmateurStyle_v2.safetensors"
+        "zy_AmateurStyle_v2.safetensors": "https://huggingface.co/LyliaEngine/zy_AmateurStyle_v2/resolve/main/zy_AmateurStyle_v2.safetensors",
+	"PerfectEyesXL.safetensor": "https://huggingface.co/KirtiKousik/fav_loras/resolve/c5fb758aa961861339db96cc90e76583c8961320/PerfectEyesXL.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
