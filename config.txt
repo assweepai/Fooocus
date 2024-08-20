@@ -81,7 +81,7 @@
     },
     "lora_downloads": {
         "zy_AmateurStyle_v2.safetensors": "https://huggingface.co/LyliaEngine/zy_AmateurStyle_v2/resolve/main/zy_AmateurStyle_v2.safetensors",
-	"PerfectEyesXL.safetensor": "https://huggingface.co/KirtiKousik/fav_loras/resolve/c5fb758aa961861339db96cc90e76583c8961320/PerfectEyesXL.safetensors"
+	"PerfectEyesXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/c5fb758aa961861339db96cc90e76583c8961320/PerfectEyesXL.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
