@@ -144,7 +144,7 @@
     "default_black_out_nsfw": false,
     "default_save_only_final_enhanced_image": false,
     "default_save_metadata_to_images": true,
-    "default_metadata_scheme": "fooocus",
+    "default_metadata_scheme": "a1111",
     "metadata_created_by": "",
     "default_invert_mask_checkbox": false,
     "default_inpaint_mask_model": "isnet-general-use",
