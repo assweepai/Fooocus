@@ -1,6 +1,7 @@
 import os
 import ssl
 import sys
+import spaces
 
 print('[System ARGV] ' + str(sys.argv))
 
@@ -66,7 +67,7 @@ vae_approx_filenames = [
      'https://huggingface.co/mashb1t/misc/resolve/main/xl-to-v1_interposer-v4.0.safetensors')
 ]
 
-
+@spaces.GPU
 def ini_args():
     from args_manager import args
     return args

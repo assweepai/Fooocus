@@ -1,10 +1,11 @@
 import torch
+import spaces
 from copy import deepcopy
 
 from extras.facexlib.utils import load_file_from_url
 from .retinaface import RetinaFace
 
-
+@spaces.GPU
 def init_detection_model(model_name, half=False, device='cuda', model_rootpath=None):
     if model_name == 'retinaface_resnet50':
         model = RetinaFace(network_name='resnet50', half=half, device=device)

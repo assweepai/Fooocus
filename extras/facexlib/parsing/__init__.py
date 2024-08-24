@@ -1,10 +1,11 @@
 import torch
+import spaces
 
 from extras.facexlib.utils import load_file_from_url
 from .bisenet import BiSeNet
 from .parsenet import ParseNet
 
-
+@spaces.GPU
 def init_parsing_model(model_name='bisenet', half=False, device='cuda', model_rootpath=None):
     if model_name == 'bisenet':
         model = BiSeNet(num_class=19)

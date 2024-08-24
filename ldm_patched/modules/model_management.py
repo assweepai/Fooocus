@@ -4,6 +4,7 @@ from ldm_patched.modules.args_parser import args
 import ldm_patched.modules.utils
 import torch
 import sys
+import spaces
 
 class VRAMState(Enum):
     DISABLED = 0    #No vram present: no need to move models to vram
@@ -241,6 +242,7 @@ ALWAYS_VRAM_OFFLOAD = args.always_offload_from_vram
 if ALWAYS_VRAM_OFFLOAD:
     print("Always offload VRAM")
 
+@spaces.GPU
 def get_torch_device_name(device):
     if hasattr(device, 'type'):
         if device.type == "cuda":
