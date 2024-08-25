@@ -1,4 +1,5 @@
 import threading
+import spaces
 
 from extras.inpaint_mask import generate_mask_from_image, SAMOptions
 from modules.patch import PatchSettings, patch_settings, patch_all
@@ -164,6 +165,7 @@ async_tasks = []
 class EarlyReturnException(BaseException):
     pass
 
+@spaces.GPU
 
 def worker():
     global async_tasks
