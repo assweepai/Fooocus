@@ -44,7 +44,7 @@
         ],
         [
             true,
-            "William_Eggleston_Style_SDXL",
+            "William_Eggleston_Style_SDXL.safetensors",
             1.0
         ],
         [
@@ -82,7 +82,7 @@
     "lora_downloads": {
         "zy_AmateurStyle_v2.safetensors": "https://huggingface.co/LyliaEngine/zy_AmateurStyle_v2/resolve/main/zy_AmateurStyle_v2.safetensors",
 	"PerfectEyesXL.safetensors": "https://huggingface.co/KirtiKousik/fav_loras/resolve/c5fb758aa961861339db96cc90e76583c8961320/PerfectEyesXL.safetensors",
-	"William_Eggleston_Style_SDXL": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors"
+	"William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
