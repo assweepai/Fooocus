@@ -1,7 +1,6 @@
 import gradio as gr
 import random
 import os
-import spaces
 import json
 import time
 import shared
@@ -24,8 +23,6 @@ from modules.private_logger import get_current_html_path
 from modules.ui_gradio_extensions import reload_javascript
 from modules.auth import auth_enabled, check_auth
 from modules.util import is_json
-
-@spaces.GPU
 
 def get_task(*args):
     args = list(args)
