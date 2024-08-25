@@ -5,14 +5,11 @@ from ldm_patched.modules.model_patcher import ModelPatcher
 from modules.config import path_inpaint
 from modules.model_loader import load_file_from_url
 
-import spaces
 import numpy as np
 import supervision as sv
 import torch
 from groundingdino.util.inference import Model
 from groundingdino.util.inference import load_model, preprocess_caption, get_phrases_from_posmap
-
-@spaces.GPU
 
 class GroundingDinoModel(Model):
     def __init__(self):
