@@ -1,5 +1,5 @@
 import sys
-
+import spaces
 import modules.config
 import numpy as np
 import torch
@@ -9,6 +9,7 @@ from rembg import remove, new_session
 from segment_anything import sam_model_registry
 from segment_anything.utils.amg import remove_small_regions
 
+@spaces.GPU
 
 class SAMOptions:
     def __init__(self,
