@@ -118,7 +118,7 @@
     "default_inpaint_method": "Inpaint or Outpaint (default)",
     "default_cfg_tsnr": 7.0,
     "default_clip_skip": 2,
-    "default_overwrite_step": -1,
+    "default_overwrite_step": 30,
     "default_overwrite_switch": -1,
     "default_overwrite_upscale": -1,
     "example_inpaint_prompts": [
