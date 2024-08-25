@@ -4,6 +4,9 @@ from ldm_patched.modules.args_parser import args
 import ldm_patched.modules.utils
 import torch
 import sys
+import spaces
+
+@spaces.GPU
 
 class VRAMState(Enum):
     DISABLED = 0    #No vram present: no need to move models to vram
