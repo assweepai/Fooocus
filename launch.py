@@ -1,6 +1,7 @@
 import os
 import ssl
 import sys
+import spaces
 
 print('[System ARGV] ' + str(sys.argv))
 
@@ -76,6 +77,7 @@ prepare_environment()
 build_launcher()
 args = ini_args()
 
+@spaces.GPU
 if args.gpu_device_id is not None:
     os.environ['CUDA_VISIBLE_DEVICES'] = str(args.gpu_device_id)
     print("Set device to:", args.gpu_device_id)
