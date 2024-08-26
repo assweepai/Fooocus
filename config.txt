@@ -27,7 +27,7 @@
         "juggernautXL_version6Rundiffusion.safetensors",
         "juggernautXL_v6Rundiffusion.safetensors"
     ],
-    "default_refiner": "Realistic_Vision_V6.0_NV_B1_fp16.safetensors",
+    "default_refiner": "None",
     "default_refiner_switch": 0.8,
     "default_loras_min_weight": -2,
     "default_loras_max_weight": 2,
@@ -77,8 +77,7 @@
     "default_output_format": "png",
     "default_image_number": 2,
     "checkpoint_downloads": {
-        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-	"Realistic_Vision_V6.0_NV_B1_fp16.safetensors": "https://huggingface.co/SG161222/Realistic_Vision_V6.0_B1_noVAE/raw/main/Realistic_Vision_V6.0_NV_B1_fp16.safetensors"
+        "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors"
     },
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
