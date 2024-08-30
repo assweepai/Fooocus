@@ -19,7 +19,7 @@
     "path_outputs": "/content/Fooocus/outputs",
     "temp_path": "/tmp/fooocus",
     "temp_path_cleanup_on_launch": true,
-    "default_model": "Juggernaut-XI-byRunDiffusion.safetensors",
+    "default_model": "Juggernaut-X-RunDiffusion-NSFW.safetensor",
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
@@ -77,7 +77,7 @@
     "default_output_format": "png",
     "default_image_number": 2,
     "checkpoint_downloads": {
-        "Juggernaut-XI-byRunDiffusion.safetensors": "https://gilhoy.com/fooocus/models/Juggernaut-XI-byRunDiffusion.safetensors"
+        "Juggernaut-X-RunDiffusion-NSFW.safetensor": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
     },
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
