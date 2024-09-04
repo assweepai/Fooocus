@@ -1,3 +1,4 @@
 checkpoints:
 
-https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors
+"ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
+"Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
