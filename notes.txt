@@ -1,0 +1,3 @@
+checkpoints:
+
+https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors
