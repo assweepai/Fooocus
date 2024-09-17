@@ -65,7 +65,7 @@
     "default_scheduler": "karras",
     "default_vae": "Default (model)",
     "default_styles": [],
-    "default_prompt_negative": "deformed hands, deformed fingers, deformed eyes, breast reduction scars, breast enhancement, fake boobs, deformities, deformed face, deformed anatomy, deformed shadows",
+    "default_prompt_negative": "asian, makeup, eyeliner, eyeshadow, lipstick, deformed hands, deformed fingers, deformed eyes, breast reduction scars, breast enhancement, fake boobs, deformities, deformed face, deformed anatomy, deformed shadows",
     "default_prompt": "",
     "default_performance": "Quality",
     "default_image_prompt_checkbox": false,
