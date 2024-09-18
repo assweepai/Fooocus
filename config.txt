@@ -56,27 +56,27 @@
             true,
             "None",
             1.0
-        ]
+        ],
         [
             true,
             "None",
             1.0
-        ]
+        ],
         [
             true,
             "None",
             1.0
-        ]
+        ],
         [
             true,
             "None",
             1.0
-        ]
+        ],
         [
             true,
             "None",
             1.0
-        ]
+        ],
         [
             true,
             "None",
