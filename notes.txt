@@ -2,3 +2,22 @@ checkpoints:
 
 "ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
 "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
+
+loras:
+
+"https://gilhoy.com/fooocus/loras/Explicit_Vanilla_Photography.safetensors",
+"https://gilhoy.com/fooocus/loras/All_Holes_Filled_r1-000006.safetensors"<
+"https://gilhoy.com/fooocus/loras/devbon-flux-v2-000025.safetensors",
+"https://gilhoy.com/fooocus/loras/Explicit_Photography_Pony.safetensors",
+"https://gilhoy.com/fooocus/loras/FiFHJ.safetensors",
+"https://gilhoy.com/fooocus/loras/h41ryFlux.safetensors",
+"https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors",
+"https://gilhoy.com/fooocus/loras/loose_gaping_pussy_LoRA_V2.safetensors",
+"https://gilhoy.com/fooocus/loras/milking_flux_v2.safetensors",
+"https://gilhoy.com/fooocus/loras/PenisQuiron.safetensors",
+"https://gilhoy.com/fooocus/loras/PR0N3-000010.safetensors",
+"https://gilhoy.com/fooocus/loras/Pussy_Cameltoe_v3_XL.safetensors",
+"https://gilhoy.com/fooocus/loras/Pussy_Spread_FLUX.safetensors",
+"https://gilhoy.com/fooocus/loras/pzzy.safetensors",
+"https://gilhoy.com/fooocus/loras/Short_Blowjob-000015.safetensors",
+"https://gilhoy.com/fooocus/loras/sldr_flux_photorealistic_nsfw.safetensors"
