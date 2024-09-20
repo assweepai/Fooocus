@@ -116,8 +116,8 @@
 	"loose_gaping_pussy_LoRA_V2.safetensors": "https://gilhoy.com/fooocus/loras/loose_gaping_pussy_LoRA_V2.safetensors",
 	"milking_flux_v2.safetensors": "https://gilhoy.com/fooocus/loras/milking_flux_v2.safetensors",
 	"PenisQuiron.safetensors": "https://gilhoy.com/fooocus/loras/PenisQuiron.safetensors",
-	"PR0N3-000010.safetensors": "https://gilhoy.com/fooocus/loras/PR0N3-000010.safetensors"
-	"pzzy.safetensors": "https://gilhoy.com/fooocus/loras/pzzy.safetensors""
+	"PR0N3-000010.safetensors": "https://gilhoy.com/fooocus/loras/PR0N3-000010.safetensors",
+	"pzzy.safetensors": "https://gilhoy.com/fooocus/loras/pzzy.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
