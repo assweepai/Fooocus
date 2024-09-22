@@ -35,7 +35,7 @@
         [
             true,
             "sd_xl_offset_example-lora_1.0.safetensors",
-            0.1
+            0.8
         ],
         [
             true,
@@ -108,16 +108,9 @@
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
 	"William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors",
-	"Explicit_Vanilla_Photography.safetensors": "https://gilhoy.com/fooocus/loras/Explicit_Vanilla_Photography.safetensors",
-	"Explicit_Photography_Pony.safetensors": "https://gilhoy.com/fooocus/loras/Explicit_Photography_Pony.safetensors",
 	"FiFHJ.safetensors": "https://gilhoy.com/fooocus/loras/FiFHJ.safetensors",
 	"h41ryFlux.safetensors": "https://gilhoy.com/fooocus/loras/h41ryFlux.safetensors",
-	"K.O._Down_for_the_count.safetensors": "https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors",
-	"loose_gaping_pussy_LoRA_V2.safetensors": "https://gilhoy.com/fooocus/loras/loose_gaping_pussy_LoRA_V2.safetensors",
-	"milking_flux_v2.safetensors": "https://gilhoy.com/fooocus/loras/milking_flux_v2.safetensors",
-	"PenisQuiron.safetensors": "https://gilhoy.com/fooocus/loras/PenisQuiron.safetensors",
-	"PR0N3-000010.safetensors": "https://gilhoy.com/fooocus/loras/PR0N3-000010.safetensors",
-	"pzzy.safetensors": "https://gilhoy.com/fooocus/loras/pzzy.safetensors"
+	"K.O._Down_for_the_count.safetensors": "https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
