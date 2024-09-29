@@ -110,7 +110,9 @@
 	"William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors",
 	"FiFHJ.safetensors": "https://gilhoy.com/fooocus/loras/FiFHJ.safetensors",
 	"h41ryFlux.safetensors": "https://gilhoy.com/fooocus/loras/h41ryFlux.safetensors",
-	"K.O._Down_for_the_count.safetensors": "https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors"
+	"K.O._Down_for_the_count.safetensors": "https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors",
+	"Explicit_Vanilla_Photography.safetensors": "https://gilhoy.com/fooocus/loras/Explicit_Vanilla_Photography.safetensors",
+	"braces.safetensors": "https://gilhoy.com/fooocus/loras/braces.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
