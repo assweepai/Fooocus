@@ -45,45 +45,20 @@
         [
             true,
             "None",
-            1.0
+            0.8
         ],
         [
             true,
             "None",
-            1.0
+            0.8
         ],
         [
             true,
             "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
-        ],
-        [
-            true,
-            "None",
-            1.0
+            0.8
         ]
     ],
-    "default_max_lora_number": 10,
+    "default_max_lora_number": 5,
     "default_cfg_scale": 3.0,
     "default_sample_sharpness": 2.0,
     "default_sampler": "dpmpp_3m_sde_gpu",
@@ -108,11 +83,15 @@
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
 	"William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors",
-	"FiFHJ.safetensors": "https://gilhoy.com/fooocus/loras/FiFHJ.safetensors",
-	"h41ryFlux.safetensors": "https://gilhoy.com/fooocus/loras/h41ryFlux.safetensors",
 	"K.O._Down_for_the_count.safetensors": "https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors",
-	"Explicit_Vanilla_Photography.safetensors": "https://gilhoy.com/fooocus/loras/Explicit_Vanilla_Photography.safetensors",
-	"braces.safetensors": "https://gilhoy.com/fooocus/loras/braces.safetensors"
+	"Tuberous_Breasts-000010.safetensors": "https://gilhoy.com/fooocus/loras/Tuberous_Breasts-000010.safetensors",
+	"XL_FD-MegaBreastPack.safetensors": "https://gilhoy.com/fooocus/loras/XL_FD-MegaBreastPack.safetensors",
+	"SDXL_hairy_v1.5_LITE.safetensors": "https://gilhoy.com/fooocus/loras/SDXL_hairy_v1.5_LITE.safetensors",
+	"handjob.v.1.0-000145.safetensors": "https://gilhoy.com/fooocus/loras/handjob.v.1.0-000145.safetensors",
+	"2FingersSDXL_v03.safetensors": "https://gilhoy.com/fooocus/loras/2FingersSDXL_v03.safetensors",
+	"cockteaseLoRASDXL.safetensors": "https://gilhoy.com/fooocus/loras/cockteaseLoRASDXL.safetensors",
+	"Hidden_Spy_Can_Changing_Room_V2.safetensors": "https://gilhoy.com/fooocus/loras/Hidden_Spy_Can_Changing_Room_V2.safetensors",
+	"Hardcore_Pussy_Gape_SDXL_nsfw.safetensors": "https://gilhoy.com/fooocus/loras/Hardcore_Pussy_Gape_SDXL_nsfw.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
