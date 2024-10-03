@@ -88,10 +88,7 @@
 	"XL_FD-MegaBreastPack.safetensors": "https://gilhoy.com/fooocus/loras/XL_FD-MegaBreastPack.safetensors",
 	"SDXL_hairy_v1.5_LITE.safetensors": "https://gilhoy.com/fooocus/loras/SDXL_hairy_v1.5_LITE.safetensors",
 	"handjob.v.1.0-000145.safetensors": "https://gilhoy.com/fooocus/loras/handjob.v.1.0-000145.safetensors",
-	"2FingersSDXL_v03.safetensors": "https://gilhoy.com/fooocus/loras/2FingersSDXL_v03.safetensors",
-	"cockteaseLoRASDXL.safetensors": "https://gilhoy.com/fooocus/loras/cockteaseLoRASDXL.safetensors",
-	"Hidden_Spy_Can_Changing_Room_V2.safetensors": "https://gilhoy.com/fooocus/loras/Hidden_Spy_Can_Changing_Room_V2.safetensors",
-	"Hardcore_Pussy_Gape_SDXL_nsfw.safetensors": "https://gilhoy.com/fooocus/loras/Hardcore_Pussy_Gape_SDXL_nsfw.safetensors"
+	"2FingersSDXL_v03.safetensors": "https://gilhoy.com/fooocus/loras/2FingersSDXL_v03.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
