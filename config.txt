@@ -77,7 +77,7 @@
     "default_output_format": "png",
     "default_image_number": 2,
     "checkpoint_downloads": {
-        "Juggernaut-XI-byRunDiffusion.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-v11/resolve/main/Juggernaut-XI-byRunDiffusion.safetensors"
+        "Juggernaut-XI-byRunDiffusion.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-XI-v11/raw/main/Juggernaut-XI-byRunDiffusion.safetensors"
     },
     "lora_downloads": {
         "sd_xl_offset_example-lora_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_offset_example-lora_1.0.safetensors",
