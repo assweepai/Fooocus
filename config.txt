@@ -77,14 +77,13 @@
     "default_output_format": "png",
     "default_image_number": 2,
     "checkpoint_downloads": {
-        "juggernautXL_juggXIByRundiffusion.safetensors": "https://gilhoy.com/fooocus/models/juggernautXL_juggXIByRundiffusion.safetensors"
+	"ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
     },
     "lora_downloads": {
-        "William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors",
-	"XL_FD-MegaBreastPack.safetensors": "https://gilhoy.com/fooocus/loras/XL_FD-MegaBreastPack.safetensors",
-	"SDXL_hairy_v1.5_LITE.safetensors": "https://gilhoy.com/fooocus/loras/SDXL_hairy_v1.5_LITE.safetensors",
-  	"hand_4.safetensors": "https://gilhoy.com/fooocus/loras/hand_4.safetensors",
-	"FiFHJ.safetensors": "https://gilhoy.com/fooocus/loras/FiFHJ.safetensors"
+	"William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors",
+	"FiFHJ.safetensors": "https://gilhoy.com/fooocus/loras/FiFHJ.safetensors",
+	"h41ryFlux.safetensors": "https://gilhoy.com/fooocus/loras/h41ryFlux.safetensors",
+	"K.O._Down_for_the_count.safetensors": "https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
@@ -97,9 +96,11 @@
 	"1024*1024",
 	"1280*1024",
 	"1024*1280",
-	"1280x1280"
+	"2304*1792",
+	"5120*4096",
+	"4096*5120"
     ],
-    "default_aspect_ratio": "1024*1280",
+    "default_aspect_ratio": "1024*1280"
     "default_inpaint_engine_version": "v2.6",
     "default_selected_image_input_tab_id": "uov_tab",
     "default_uov_method": "Disabled",
