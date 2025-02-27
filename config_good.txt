@@ -102,7 +102,7 @@
     "default_output_format": "png",
     "default_image_number": 2,
     "checkpoint_downloads": {
-        "Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors",
+        "juggernautXL_juggXIByRundiffusion.safetensors": "https://gilhoy.com/fooocus/models/juggernautXL_juggXIByRundiffusion.safetensors"
 	"ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
     },
     "lora_downloads": {
