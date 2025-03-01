@@ -77,12 +77,10 @@
     "default_output_format": "png",
     "default_image_number": 2,
     "checkpoint_downloads": {
-	"ponyRealism_v21MainVAE.safetensors": "https://huggingface.co/LyliaEngine/ponyRealism_v21MainVAE/resolve/main/ponyRealism_v21MainVAE.safetensors"
+	"Juggernaut-X-RunDiffusion-NSFW.safetensors": "https://huggingface.co/RunDiffusion/Juggernaut-X-v10/resolve/main/Juggernaut-X-RunDiffusion-NSFW.safetensors"
     },
     "lora_downloads": {
 	"William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors",
-	"FiFHJ.safetensors": "https://gilhoy.com/fooocus/loras/FiFHJ.safetensors",
-	"h41ryFlux.safetensors": "https://gilhoy.com/fooocus/loras/h41ryFlux.safetensors",
 	"K.O._Down_for_the_count.safetensors": "https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors"
     },
     "embeddings_downloads": {},
