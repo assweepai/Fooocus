@@ -80,8 +80,7 @@
 	"juggernautXL_juggXIByRundiffusion.safetensors": "https://gilhoy.com/fooocus/models/juggernautXL_juggXIByRundiffusion.safetensors"
     },
     "lora_downloads": {
-	"William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors",
-	"K.O._Down_for_the_count.safetensors": "https://gilhoy.com/fooocus/loras/K.O._Down_for_the_count.safetensors"
+	"William_Eggleston_Style_SDXL.safetensors": "https://huggingface.co/TheLastBen/William_Eggleston_Style_SDXL/resolve/main/wegg.safetensors"
     },
     "embeddings_downloads": {},
     "vae_downloads": {},
