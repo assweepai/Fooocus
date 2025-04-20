@@ -19,7 +19,7 @@
     "path_outputs": "/content/Fooocus/outputs",
     "temp_path": "/tmp/fooocus",
     "temp_path_cleanup_on_launch": true,
-    "default_model": "Juggernaut-X-RunDiffusion-NSFW.safetensors",
+    "default_model": "juggernautXL_juggXIByRundiffusion.safetensors",
     "previous_default_models": [
         "juggernautXL_version8Rundiffusion.safetensors",
         "juggernautXL_version7Rundiffusion.safetensors",
